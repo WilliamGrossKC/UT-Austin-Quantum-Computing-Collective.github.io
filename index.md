@@ -1,10 +1,9 @@
 ---
 title: UT Austin Quantum Computing Collective
 feature_text: |
-  ## QCC
- The Quantum Computing Collective at UT Austin aims to be a community where undergraduate students can engage with each other to learn, teach, and research topics within the field of Quanum Computing.
- 
- feature_image: "https://picsum.photos/1300/400?image=989"
+  ## Alembic
+  A Jekyll boilerplate theme designed to be a starting point for any Jekyll website
+feature_image: "https://picsum.photos/1300/400?image=989"
 excerpt: "Alembic is a starting point for [Jekyll](https://jekyllrb.com/) projects. Rather than starting from scratch, this boilerplate is designed to get the ball rolling immediately. Install it, configure it, tweak it, push it."
 ---
 
